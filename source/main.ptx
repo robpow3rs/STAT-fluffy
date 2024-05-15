@@ -6,7 +6,7 @@
 
   <book xml:id="my-great-book">
     <title>Introduction to Statistical Analysis</title>
-    <subtitle>Unlocking the Power of Data, 3rd Edition</subtitle>
+    <subtitle>An Interactive Approach to Analyzing Data</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
@@ -14,6 +14,8 @@
     <!-- Include chapters -->
     <xi:include href="./ch-collecting-data.ptx" />
 
+    <!-- Include chapters-->
+    <xi:include href="./ch-describing-data.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />

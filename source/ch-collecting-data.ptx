@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="ch-chapter-title" xmlns:xi="http://www.w3.org/2001/XInclude">
+<chapter xml:id="ch-collecting-data" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Collecting Data</title>
 
   <introduction>
-    <p> Text before the first section. </p>
+    <p> The foundation of statistics is data. </p>
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="structure-of-data.ptx" />
+  <xi:include href="sec-data-structure-of-data.ptx" />
 
 </chapter>

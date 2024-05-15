@@ -3,6 +3,10 @@
 <section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Structure of Data</title>
 
-  <p> Text of section. </p>
+  <p>The following activities focus on cases and variables of data.</p>
+
+  <!-- include subsections -->
+  <xi:include href="subsec-data-student-survey.ptx" />
+
 
 </section>
