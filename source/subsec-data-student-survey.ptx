@@ -3,6 +3,31 @@
 <subsection xml:id="subsec-data-student-survey" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Student Survey</title>
 
-    
+<p> Students in prior introductory statistics courses filled out a survey. The collection of responses is called a dataset, which includes responses from 362 students on the following 17 variables. </p>
+<ul>
+    <li><p>Year: Year in school</p></li>
+    <li><p>Sex: F=female or M=male</p></li>
+    <li><p>Smoke: Smoker? No or Yes</p></li>
+    <li><p>Award: Preferred award, Academy, Nobel, or Olympic</p></li>
+    <li><p>HigherSAT: Which SAT is higher? Math or Verbal</p></li>
+    <li><p>Exercise: Hours of exercise per week</p></li>
+    <li><p>TV: Hours of TV viewing per week</p></li>
+    <li><p>Height: Height (in inches)</p></li>
+    <li><p>Weight: Weight (in pounds)</p></li>
+    <li><p>Siblings: Number of siblings</p></li>
+    <li><p>BirthOrder: Birth order, 1=oldest</p></li>
+    <li><p>VerbalSAT: Verbal SAT score</p></li>
+    <li><p>MathSAT: Math SAT scorer</p></li>
+    <li><p>SAT: Combined Verbal + Math SAT</p></li>
+    <li><p>GPA: College grade point average</p></li>
+    <li><p>Pulse: Pulse rate (beats per minute)</p></li>
+    <li><p>Piercings: Number of body piercings</p></li>    
+</ul>
+<exercise>
+    <statement><p>Describe what each row represents.</p></statement>
+    <hint><p>Each entry in the row is the response to the question on the survey.</p></hint>
+    <answer><p><m>student</m></p></answer>
+    <solution><p><m>student</m> as each one responded to the survey</p></solution>
+</exercise>
 
 </subsection>
