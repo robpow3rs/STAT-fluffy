@@ -4,7 +4,7 @@
   <title>Structure of Data</title>
 
   <p>The following activities focus on cases and variables of data.</p>
-
+  
   <!-- include subsections -->
   <xi:include href="subsec-data-student-survey.ptx" />
 
